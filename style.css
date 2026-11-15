@@ -20,3 +20,5 @@ body{font-size:16px}.eyebrow{font-size:12px;font-weight:500;letter-spacing:.06em
 @media(max-width:760px){.fun-facts{margin-top:22px}.fun-facts ul{grid-template-columns:1fr;font-size:13px}}
 
 .fun-section{padding:48px 0 58px;background:#f0e9e5;color:var(--ink)}.fun-section .eyebrow{color:var(--wine)}.fun-section h2{font:500 clamp(34px,5vw,52px) 'Playfair Display';margin:12px 0 0;letter-spacing:-.04em}.fun-section .fun-facts{border-color:#cdbbc0;margin:18px 0 0;padding-top:13px}.fun-section .fun-facts summary{color:var(--wine)}.fun-section .fun-facts summary:after{color:var(--wine)}.fun-section .fun-facts ul{color:#45463f}
+
+.fun-section .fun-facts{margin-top:16px}.fun-section .fun-facts ul{margin-top:0}
